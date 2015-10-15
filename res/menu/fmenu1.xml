@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:tools="http://schemas.android.com/tools" 
+    tools:context="com.app3.MainActivity	">
+<item android:id="@+id/Home" android:orderInCategory="1" android:title="Home"/>
+<item android:id="@+id/About" android:orderInCategory="2" android:title="About"/>
+<item android:id="@+id/Settings" android:orderInCategory="3" android:title="Settings"/>
+<item android:id="@+id/Help" android:orderInCategory="3" android:title="Help"/>
+</menu>
